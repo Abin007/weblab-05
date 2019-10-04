@@ -1,0 +1,15 @@
+{
+  "name": "lecture-4",
+  "version": "1.0.0",
+  "description": "for mongodb, async and await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abin Martin Jones 10446686",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  }
+}
